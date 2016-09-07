@@ -1,0 +1,9 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "fdd08bd6369fc1e7e4ca093753c73d05"
+build_time: [526567195, 867492000]
+inputs:
+  "/Users/mahendraanand/Desktop/WorkSpace/FBUserInfo/FBUserInfo/ViewController.swift": [526565294, 0]
+  "/Users/mahendraanand/Desktop/WorkSpace/FBUserInfo/FBUserInfo/SocialHandler/Profile.swift": [526566853, 0]
+  "/Users/mahendraanand/Desktop/WorkSpace/FBUserInfo/DetailViewController.swift": [526567194, 0]
+  "/Users/mahendraanand/Desktop/WorkSpace/FBUserInfo/FBUserInfo/SocialHandler/SocialHandler.swift": [526567194, 0]
+  "/Users/mahendraanand/Desktop/WorkSpace/FBUserInfo/FBUserInfo/AppDelegate.swift": [526459195, 0]

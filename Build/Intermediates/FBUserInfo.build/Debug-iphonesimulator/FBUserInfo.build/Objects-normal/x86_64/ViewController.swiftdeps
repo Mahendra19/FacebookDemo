@@ -1,0 +1,471 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "C10FBUserInfo14ViewController"
+provides-member:
+- ["C10FBUserInfo14ViewController", ""]
+provides-dynamic-lookup:
+- "didReceiveMemoryWarning"
+- "loginWithFB2"
+- "socialHandler"
+- "loginWithFB1"
+- "loginwithFBButton1"
+- "viewDidLoad"
+- "loginwithFBButton2"
+depends-top-level:
+- "ViewController"
+- "BooleanLiteralType"
+- "UIViewController"
+- "SocialHandler"
+- !private "DetailViewController"
+- "StringLiteralType"
+- "UIButton"
+- !private "print"
+- !private "dispatch_get_main_queue"
+- !private "dispatch_async"
+depends-member:
+- ["Ps9AnyObject", "SocialHandler"]
+- ["Ps9AnyObject", "didReceiveMemoryWarning"]
+- !private ["Ps9AnyObject", "dispatch_async"]
+- !private ["Ps9AnyObject", "dispatch_get_main_queue"]
+- !private ["Ps9AnyObject", "getUserInfo"]
+- ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "instantiateViewControllerWithIdentifier"]
+- ["Ps9AnyObject", "loginWithFB1"]
+- ["Ps9AnyObject", "loginWithFB2"]
+- ["Ps9AnyObject", "loginwithFBButton1"]
+- ["Ps9AnyObject", "loginwithFBButton2"]
+- !private ["Ps9AnyObject", "navigationController"]
+- !private ["Ps9AnyObject", "print"]
+- !private ["Ps9AnyObject", "profileInfo"]
+- !private ["Ps9AnyObject", "pushViewController"]
+- ["Ps9AnyObject", "socialHandler"]
+- !private ["Ps9AnyObject", "storyboard"]
+- ["Ps9AnyObject", "viewDidLoad"]
+- ["Ps9AnyObject", ""]
+- !private ["Sb", "deinit"]
+- ["Ps11CVarArgType", "SocialHandler"]
+- ["Ps11CVarArgType", "didReceiveMemoryWarning"]
+- !private ["Ps11CVarArgType", "dispatch_async"]
+- !private ["Ps11CVarArgType", "dispatch_get_main_queue"]
+- !private ["Ps11CVarArgType", "getUserInfo"]
+- ["Ps11CVarArgType", "init"]
+- !private ["Ps11CVarArgType", "instantiateViewControllerWithIdentifier"]
+- ["Ps11CVarArgType", "loginWithFB1"]
+- ["Ps11CVarArgType", "loginWithFB2"]
+- ["Ps11CVarArgType", "loginwithFBButton1"]
+- ["Ps11CVarArgType", "loginwithFBButton2"]
+- !private ["Ps11CVarArgType", "navigationController"]
+- !private ["Ps11CVarArgType", "print"]
+- !private ["Ps11CVarArgType", "profileInfo"]
+- !private ["Ps11CVarArgType", "pushViewController"]
+- ["Ps11CVarArgType", "socialHandler"]
+- !private ["Ps11CVarArgType", "storyboard"]
+- ["Ps11CVarArgType", "viewDidLoad"]
+- ["Ps11CVarArgType", ""]
+- !private ["Vs9Character", "deinit"]
+- !private ["Ps10Comparable", "init"]
+- ["Ps28CustomDebugStringConvertible", "SocialHandler"]
+- ["Ps28CustomDebugStringConvertible", "didReceiveMemoryWarning"]
+- !private ["Ps28CustomDebugStringConvertible", "dispatch_async"]
+- !private ["Ps28CustomDebugStringConvertible", "dispatch_get_main_queue"]
+- !private ["Ps28CustomDebugStringConvertible", "getUserInfo"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "instantiateViewControllerWithIdentifier"]
+- ["Ps28CustomDebugStringConvertible", "loginWithFB1"]
+- ["Ps28CustomDebugStringConvertible", "loginWithFB2"]
+- ["Ps28CustomDebugStringConvertible", "loginwithFBButton1"]
+- ["Ps28CustomDebugStringConvertible", "loginwithFBButton2"]
+- !private ["Ps28CustomDebugStringConvertible", "navigationController"]
+- !private ["Ps28CustomDebugStringConvertible", "print"]
+- !private ["Ps28CustomDebugStringConvertible", "profileInfo"]
+- !private ["Ps28CustomDebugStringConvertible", "pushViewController"]
+- ["Ps28CustomDebugStringConvertible", "socialHandler"]
+- !private ["Ps28CustomDebugStringConvertible", "storyboard"]
+- ["Ps28CustomDebugStringConvertible", "viewDidLoad"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- ["Ps23CustomStringConvertible", "SocialHandler"]
+- ["Ps23CustomStringConvertible", "didReceiveMemoryWarning"]
+- !private ["Ps23CustomStringConvertible", "dispatch_async"]
+- !private ["Ps23CustomStringConvertible", "dispatch_get_main_queue"]
+- !private ["Ps23CustomStringConvertible", "getUserInfo"]
+- ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "instantiateViewControllerWithIdentifier"]
+- ["Ps23CustomStringConvertible", "loginWithFB1"]
+- ["Ps23CustomStringConvertible", "loginWithFB2"]
+- ["Ps23CustomStringConvertible", "loginwithFBButton1"]
+- ["Ps23CustomStringConvertible", "loginwithFBButton2"]
+- !private ["Ps23CustomStringConvertible", "navigationController"]
+- !private ["Ps23CustomStringConvertible", "print"]
+- !private ["Ps23CustomStringConvertible", "profileInfo"]
+- !private ["Ps23CustomStringConvertible", "pushViewController"]
+- ["Ps23CustomStringConvertible", "socialHandler"]
+- !private ["Ps23CustomStringConvertible", "storyboard"]
+- ["Ps23CustomStringConvertible", "viewDidLoad"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["C10FBUserInfo20DetailViewController", "profileInfo"]
+- !private ["Sd", "deinit"]
+- ["Ps9Equatable", "LOGIN_FB"]
+- ["Ps9Equatable", "SocialHandler"]
+- ["Ps9Equatable", "didReceiveMemoryWarning"]
+- !private ["Ps9Equatable", "dispatch_async"]
+- !private ["Ps9Equatable", "dispatch_get_main_queue"]
+- !private ["Ps9Equatable", "getUserInfo"]
+- ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "instantiateViewControllerWithIdentifier"]
+- ["Ps9Equatable", "loginWithFB1"]
+- ["Ps9Equatable", "loginWithFB2"]
+- ["Ps9Equatable", "loginwithFBButton1"]
+- ["Ps9Equatable", "loginwithFBButton2"]
+- !private ["Ps9Equatable", "navigationController"]
+- !private ["Ps9Equatable", "print"]
+- !private ["Ps9Equatable", "profileInfo"]
+- !private ["Ps9Equatable", "pushViewController"]
+- ["Ps9Equatable", "socialHandler"]
+- !private ["Ps9Equatable", "storyboard"]
+- ["Ps9Equatable", "viewDidLoad"]
+- ["Ps9Equatable", ""]
+- !private ["Ps41ExtendedGraphemeClusterLiteralConvertible", "init"]
+- !private ["Sf", "deinit"]
+- ["Ps8Hashable", "LOGIN_FB"]
+- ["Ps8Hashable", "SocialHandler"]
+- ["Ps8Hashable", "didReceiveMemoryWarning"]
+- !private ["Ps8Hashable", "dispatch_async"]
+- !private ["Ps8Hashable", "dispatch_get_main_queue"]
+- !private ["Ps8Hashable", "getUserInfo"]
+- ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "instantiateViewControllerWithIdentifier"]
+- ["Ps8Hashable", "loginWithFB1"]
+- ["Ps8Hashable", "loginWithFB2"]
+- ["Ps8Hashable", "loginwithFBButton1"]
+- ["Ps8Hashable", "loginwithFBButton2"]
+- !private ["Ps8Hashable", "navigationController"]
+- !private ["Ps8Hashable", "print"]
+- !private ["Ps8Hashable", "profileInfo"]
+- !private ["Ps8Hashable", "pushViewController"]
+- ["Ps8Hashable", "socialHandler"]
+- !private ["Ps8Hashable", "storyboard"]
+- ["Ps8Hashable", "viewDidLoad"]
+- ["Ps8Hashable", ""]
+- !private ["SQ", "deinit"]
+- !private ["Si", "deinit"]
+- !private ["Vs5Int16", "deinit"]
+- !private ["Vs5Int32", "deinit"]
+- !private ["Vs5Int64", "deinit"]
+- !private ["Vs4Int8", "deinit"]
+- ["O10FBUserInfo9LoginType", "LOGIN_FB"]
+- !private ["Ps14MirrorPathType", "init"]
+- ["PSo8NSCoding", "SocialHandler"]
+- ["PSo8NSCoding", "didReceiveMemoryWarning"]
+- !private ["PSo8NSCoding", "dispatch_async"]
+- !private ["PSo8NSCoding", "dispatch_get_main_queue"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "loginWithFB1"]
+- ["PSo8NSCoding", "loginWithFB2"]
+- ["PSo8NSCoding", "loginwithFBButton1"]
+- ["PSo8NSCoding", "loginwithFBButton2"]
+- !private ["PSo8NSCoding", "navigationController"]
+- !private ["PSo8NSCoding", "print"]
+- !private ["PSo8NSCoding", "profileInfo"]
+- !private ["PSo8NSCoding", "pushViewController"]
+- ["PSo8NSCoding", "socialHandler"]
+- !private ["PSo8NSCoding", "storyboard"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo9NSCopying", "init"]
+- ["PSo26NSExtensionRequestHandling", "SocialHandler"]
+- ["PSo26NSExtensionRequestHandling", "didReceiveMemoryWarning"]
+- !private ["PSo26NSExtensionRequestHandling", "dispatch_async"]
+- !private ["PSo26NSExtensionRequestHandling", "dispatch_get_main_queue"]
+- ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "loginWithFB1"]
+- ["PSo26NSExtensionRequestHandling", "loginWithFB2"]
+- ["PSo26NSExtensionRequestHandling", "loginwithFBButton1"]
+- ["PSo26NSExtensionRequestHandling", "loginwithFBButton2"]
+- !private ["PSo26NSExtensionRequestHandling", "navigationController"]
+- !private ["PSo26NSExtensionRequestHandling", "print"]
+- !private ["PSo26NSExtensionRequestHandling", "profileInfo"]
+- !private ["PSo26NSExtensionRequestHandling", "pushViewController"]
+- ["PSo26NSExtensionRequestHandling", "socialHandler"]
+- !private ["PSo26NSExtensionRequestHandling", "storyboard"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- !private ["PSo16NSMutableCopying", "init"]
+- !private ["CSo8NSObject", "DetailViewController"]
+- ["CSo8NSObject", "SocialHandler"]
+- ["CSo8NSObject", "UIButton"]
+- ["CSo8NSObject", "didReceiveMemoryWarning"]
+- !private ["CSo8NSObject", "dispatch_async"]
+- !private ["CSo8NSObject", "dispatch_get_main_queue"]
+- !private ["CSo8NSObject", "getUserInfo"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "instantiateViewControllerWithIdentifier"]
+- ["CSo8NSObject", "loginWithFB1"]
+- ["CSo8NSObject", "loginWithFB2"]
+- ["CSo8NSObject", "loginwithFBButton1"]
+- ["CSo8NSObject", "loginwithFBButton2"]
+- !private ["CSo8NSObject", "navigationController"]
+- !private ["CSo8NSObject", "print"]
+- !private ["CSo8NSObject", "profileInfo"]
+- !private ["CSo8NSObject", "pushViewController"]
+- ["CSo8NSObject", "socialHandler"]
+- !private ["CSo8NSObject", "storyboard"]
+- ["CSo8NSObject", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", "SocialHandler"]
+- ["PSo16NSObjectProtocol", "didReceiveMemoryWarning"]
+- !private ["PSo16NSObjectProtocol", "dispatch_async"]
+- !private ["PSo16NSObjectProtocol", "dispatch_get_main_queue"]
+- !private ["PSo16NSObjectProtocol", "getUserInfo"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "instantiateViewControllerWithIdentifier"]
+- ["PSo16NSObjectProtocol", "loginWithFB1"]
+- ["PSo16NSObjectProtocol", "loginWithFB2"]
+- ["PSo16NSObjectProtocol", "loginwithFBButton1"]
+- ["PSo16NSObjectProtocol", "loginwithFBButton2"]
+- !private ["PSo16NSObjectProtocol", "navigationController"]
+- !private ["PSo16NSObjectProtocol", "print"]
+- !private ["PSo16NSObjectProtocol", "profileInfo"]
+- !private ["PSo16NSObjectProtocol", "pushViewController"]
+- ["PSo16NSObjectProtocol", "socialHandler"]
+- !private ["PSo16NSObjectProtocol", "storyboard"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["CSo8NSString", "deinit"]
+- !private ["CSo8NSString", "init"]
+- !private ["Sq", "deinit"]
+- !private ["Ps16OutputStreamType", "init"]
+- ["Ps16RawRepresentable", "LOGIN_FB"]
+- !private ["C10FBUserInfo13SocialHandler", "getUserInfo"]
+- ["C10FBUserInfo13SocialHandler", "init"]
+- !private ["Ps10Streamable", "init"]
+- !private ["SS", "init"]
+- !private ["Ps30StringInterpolationConvertible", "init"]
+- !private ["Ps24StringLiteralConvertible", "init"]
+- ["PSo21UIAppearanceContainer", "SocialHandler"]
+- ["PSo21UIAppearanceContainer", "didReceiveMemoryWarning"]
+- !private ["PSo21UIAppearanceContainer", "dispatch_async"]
+- !private ["PSo21UIAppearanceContainer", "dispatch_get_main_queue"]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "loginWithFB1"]
+- ["PSo21UIAppearanceContainer", "loginWithFB2"]
+- ["PSo21UIAppearanceContainer", "loginwithFBButton1"]
+- ["PSo21UIAppearanceContainer", "loginwithFBButton2"]
+- !private ["PSo21UIAppearanceContainer", "navigationController"]
+- !private ["PSo21UIAppearanceContainer", "print"]
+- !private ["PSo21UIAppearanceContainer", "profileInfo"]
+- !private ["PSo21UIAppearanceContainer", "pushViewController"]
+- ["PSo21UIAppearanceContainer", "socialHandler"]
+- !private ["PSo21UIAppearanceContainer", "storyboard"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["PSo18UIContentContainer", "SocialHandler"]
+- ["PSo18UIContentContainer", "didReceiveMemoryWarning"]
+- !private ["PSo18UIContentContainer", "dispatch_async"]
+- !private ["PSo18UIContentContainer", "dispatch_get_main_queue"]
+- ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", "loginWithFB1"]
+- ["PSo18UIContentContainer", "loginWithFB2"]
+- ["PSo18UIContentContainer", "loginwithFBButton1"]
+- ["PSo18UIContentContainer", "loginwithFBButton2"]
+- !private ["PSo18UIContentContainer", "navigationController"]
+- !private ["PSo18UIContentContainer", "print"]
+- !private ["PSo18UIContentContainer", "profileInfo"]
+- !private ["PSo18UIContentContainer", "pushViewController"]
+- ["PSo18UIContentContainer", "socialHandler"]
+- !private ["PSo18UIContentContainer", "storyboard"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- ["PSo18UIFocusEnvironment", "SocialHandler"]
+- ["PSo18UIFocusEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UIFocusEnvironment", "dispatch_async"]
+- !private ["PSo18UIFocusEnvironment", "dispatch_get_main_queue"]
+- ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "loginWithFB1"]
+- ["PSo18UIFocusEnvironment", "loginWithFB2"]
+- ["PSo18UIFocusEnvironment", "loginwithFBButton1"]
+- ["PSo18UIFocusEnvironment", "loginwithFBButton2"]
+- !private ["PSo18UIFocusEnvironment", "navigationController"]
+- !private ["PSo18UIFocusEnvironment", "print"]
+- !private ["PSo18UIFocusEnvironment", "profileInfo"]
+- !private ["PSo18UIFocusEnvironment", "pushViewController"]
+- ["PSo18UIFocusEnvironment", "socialHandler"]
+- !private ["PSo18UIFocusEnvironment", "storyboard"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["CSo22UINavigationController", "pushViewController"]
+- !private ["CSo11UIResponder", "DetailViewController"]
+- ["CSo11UIResponder", "SocialHandler"]
+- ["CSo11UIResponder", "UIButton"]
+- ["CSo11UIResponder", "didReceiveMemoryWarning"]
+- !private ["CSo11UIResponder", "dispatch_async"]
+- !private ["CSo11UIResponder", "dispatch_get_main_queue"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "loginWithFB1"]
+- ["CSo11UIResponder", "loginWithFB2"]
+- ["CSo11UIResponder", "loginwithFBButton1"]
+- ["CSo11UIResponder", "loginwithFBButton2"]
+- !private ["CSo11UIResponder", "navigationController"]
+- !private ["CSo11UIResponder", "print"]
+- !private ["CSo11UIResponder", "profileInfo"]
+- !private ["CSo11UIResponder", "pushViewController"]
+- ["CSo11UIResponder", "socialHandler"]
+- !private ["CSo11UIResponder", "storyboard"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- ["PSo16UIStateRestoring", "SocialHandler"]
+- ["PSo16UIStateRestoring", "didReceiveMemoryWarning"]
+- !private ["PSo16UIStateRestoring", "dispatch_async"]
+- !private ["PSo16UIStateRestoring", "dispatch_get_main_queue"]
+- ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", "loginWithFB1"]
+- ["PSo16UIStateRestoring", "loginWithFB2"]
+- ["PSo16UIStateRestoring", "loginwithFBButton1"]
+- ["PSo16UIStateRestoring", "loginwithFBButton2"]
+- !private ["PSo16UIStateRestoring", "navigationController"]
+- !private ["PSo16UIStateRestoring", "print"]
+- !private ["PSo16UIStateRestoring", "profileInfo"]
+- !private ["PSo16UIStateRestoring", "pushViewController"]
+- ["PSo16UIStateRestoring", "socialHandler"]
+- !private ["PSo16UIStateRestoring", "storyboard"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- !private ["CSo12UIStoryboard", "instantiateViewControllerWithIdentifier"]
+- ["PSo18UITraitEnvironment", "SocialHandler"]
+- ["PSo18UITraitEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UITraitEnvironment", "dispatch_async"]
+- !private ["PSo18UITraitEnvironment", "dispatch_get_main_queue"]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "loginWithFB1"]
+- ["PSo18UITraitEnvironment", "loginWithFB2"]
+- ["PSo18UITraitEnvironment", "loginwithFBButton1"]
+- ["PSo18UITraitEnvironment", "loginwithFBButton2"]
+- !private ["PSo18UITraitEnvironment", "navigationController"]
+- !private ["PSo18UITraitEnvironment", "print"]
+- !private ["PSo18UITraitEnvironment", "profileInfo"]
+- !private ["PSo18UITraitEnvironment", "pushViewController"]
+- ["PSo18UITraitEnvironment", "socialHandler"]
+- !private ["PSo18UITraitEnvironment", "storyboard"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo16UIViewController", "DetailViewController"]
+- ["CSo16UIViewController", "SocialHandler"]
+- ["CSo16UIViewController", "UIButton"]
+- ["CSo16UIViewController", "didReceiveMemoryWarning"]
+- !private ["CSo16UIViewController", "dispatch_async"]
+- !private ["CSo16UIViewController", "dispatch_get_main_queue"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "loginWithFB1"]
+- ["CSo16UIViewController", "loginWithFB2"]
+- ["CSo16UIViewController", "loginwithFBButton1"]
+- ["CSo16UIViewController", "loginwithFBButton2"]
+- !private ["CSo16UIViewController", "navigationController"]
+- !private ["CSo16UIViewController", "print"]
+- !private ["CSo16UIViewController", "profileInfo"]
+- !private ["CSo16UIViewController", "pushViewController"]
+- ["CSo16UIViewController", "socialHandler"]
+- !private ["CSo16UIViewController", "storyboard"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", ""]
+- !private ["Su", "deinit"]
+- !private ["Vs6UInt16", "deinit"]
+- !private ["Vs6UInt32", "deinit"]
+- !private ["Vs6UInt64", "deinit"]
+- !private ["Vs5UInt8", "deinit"]
+- !private ["Sc", "deinit"]
+- !private ["Ps31UnicodeScalarLiteralConvertible", "init"]
+- !private ["C10FBUserInfo14ViewController", "DetailViewController"]
+- ["C10FBUserInfo14ViewController", "SocialHandler"]
+- ["C10FBUserInfo14ViewController", "UIButton"]
+- ["C10FBUserInfo14ViewController", "deinit"]
+- ["C10FBUserInfo14ViewController", "didReceiveMemoryWarning"]
+- !private ["C10FBUserInfo14ViewController", "dispatch_async"]
+- !private ["C10FBUserInfo14ViewController", "dispatch_get_main_queue"]
+- ["C10FBUserInfo14ViewController", "init"]
+- ["C10FBUserInfo14ViewController", "loginWithFB1"]
+- ["C10FBUserInfo14ViewController", "loginWithFB2"]
+- ["C10FBUserInfo14ViewController", "loginwithFBButton1"]
+- ["C10FBUserInfo14ViewController", "loginwithFBButton2"]
+- !private ["C10FBUserInfo14ViewController", "navigationController"]
+- !private ["C10FBUserInfo14ViewController", "print"]
+- ["C10FBUserInfo14ViewController", "socialHandler"]
+- !private ["C10FBUserInfo14ViewController", "storyboard"]
+- ["C10FBUserInfo14ViewController", "viewDidLoad"]
+- !private ["Ps49_BuiltinExtendedGraphemeClusterLiteralConvertible", "init"]
+- !private ["Ps32_BuiltinStringLiteralConvertible", "init"]
+- !private ["Ps37_BuiltinUTF16StringLiteralConvertible", "init"]
+- !private ["Ps39_BuiltinUnicodeScalarLiteralConvertible", "init"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Ps12_Reflectable", "init"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "Sb"
+- "Ps11CVarArgType"
+- !private "Vs9Character"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- !private "C10FBUserInfo20DetailViewController"
+- !private "Sd"
+- "Ps9Equatable"
+- !private "Ps41ExtendedGraphemeClusterLiteralConvertible"
+- !private "Sf"
+- "Ps8Hashable"
+- !private "SQ"
+- !private "Si"
+- !private "Vs5Int16"
+- !private "Vs5Int32"
+- !private "Vs5Int64"
+- !private "Vs4Int8"
+- "O10FBUserInfo9LoginType"
+- !private "Ps14MirrorPathType"
+- "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- "PSo26NSExtensionRequestHandling"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- !private "Sq"
+- !private "Ps16OutputStreamType"
+- "Ps16RawRepresentable"
+- "C10FBUserInfo13SocialHandler"
+- !private "Ps10Streamable"
+- !private "SS"
+- !private "Ps30StringInterpolationConvertible"
+- !private "Ps24StringLiteralConvertible"
+- "PSo21UIAppearanceContainer"
+- "PSo18UIContentContainer"
+- "PSo18UIFocusEnvironment"
+- !private "CSo22UINavigationController"
+- "CSo11UIResponder"
+- "PSo16UIStateRestoring"
+- !private "CSo12UIStoryboard"
+- "PSo18UITraitEnvironment"
+- "CSo16UIViewController"
+- !private "Su"
+- !private "Vs6UInt16"
+- !private "Vs6UInt32"
+- !private "Vs6UInt64"
+- !private "Vs5UInt8"
+- !private "Sc"
+- !private "Ps31UnicodeScalarLiteralConvertible"
+- "C10FBUserInfo14ViewController"
+- !private "Ps49_BuiltinExtendedGraphemeClusterLiteralConvertible"
+- !private "Ps32_BuiltinStringLiteralConvertible"
+- !private "Ps37_BuiltinUTF16StringLiteralConvertible"
+- !private "Ps39_BuiltinUnicodeScalarLiteralConvertible"
+- !private "Ps21_ObjectiveCBridgeable"
+- !private "Ps12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "dc466c38c68e31f020f3d9dd443943d3"
